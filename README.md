@@ -1,3 +1,7 @@
 # Hangman
 
-using [Haskell](./Haskell)
+Hangman game in various forms
+
+## Implementations
+
+- using [Haskell](./Haskell)

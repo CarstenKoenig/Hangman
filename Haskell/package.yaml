@@ -1,7 +1,7 @@
 name:                Hangman
 version:             0.1.0.0
 github:              "CarstenKoenig/Hangman"
-license:             BSD3
+license:             OtherLicense
 author:              "Carsten Koenig"
 maintainer:          "Carsten.Koenig@hotmail.de"
 copyright:           "2018 Carsten Koenig"
